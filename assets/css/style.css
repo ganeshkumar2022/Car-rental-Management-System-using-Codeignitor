@@ -1,0 +1,23 @@
+.log_button
+{
+background-color:rgb(232, 75, 47);
+color:white;
+padding:5px 20px;
+border:2px solid rgb(232, 75, 47);
+border-radius:2px;
+}
+.phs
+{
+    background-color: green;
+}
+.admin_index_layout
+{
+    color:red;
+}
+.log_button:hover{
+    color:white;
+}
+html
+{
+    scroll-behavior: smooth;
+}
